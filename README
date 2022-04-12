@@ -1,17 +1,24 @@
-========================================
-   Russkopis, a Cyrillic cursive font
-========================================
+======================================================
+   Yokogana-Russkopis, the Open Source Cursive Font
+======================================================
 
-Russkopis is a free Cyrillic cursive font for Russian (pre- and post-1918
-orthography), Ukrainian, Belarusian and Bulgarian languages. This was named
-after Russian words "russkij rukopis" (Russian manuscript).
+Yokogana-Russkopis is an Open Source Cursive Font forked from
+Russkopis, a free Cyrillic cursive font for Russian (pre- and post-1918
+orthography), Ukrainian, Belarusian and Bulgarian languages.
+This font also have support for Yokogana, a latin-like script
+invented for writing Japanese kana horizontally in cursive.
+The name Russkopis comes from "russkij rukopis" which translates to
+"Russian manuscript" in Russian.
 
-License:
 
-See LICENSE file.
+* License
+ - See LICENSE file.
 
-Credits:
 
-Cursive alphabet glyphs are based on George Douros' "Symbola" font.
+* Credits
+
+Cursive Yokogana glyphs are created by KawaneRio.(2022)
+Cursive Cyrillic glyphs are created by MihailJP.(2011)
+Cursive Latin glyphs are based on George Douros' "Symbola" font.(2010)
 Digit and punctuation glyphs are based on Andrey V. Panov's "Computer Modern
-Unicode" font.
+Unicode" font (2005), although some may have been modified.
